@@ -1,0 +1,11 @@
+{
+    "ChatGPTnovelwriting_name": {
+        "message": "ChatGPT Novel Writing Assistant"
+    },
+    "ChatGPTnovelwriting_description": {
+        "message": "This is an AI-powered writing assistant for building a novel in one click."
+    },
+    "ChatGPTnovelwriting_author": {
+        "message": "chencong"
+    }
+}

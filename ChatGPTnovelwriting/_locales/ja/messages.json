@@ -1,0 +1,11 @@
+{
+  "ChatGPTnovelwriting_name": {
+    "message": "ChatGPT小説作成支援ツール"
+  },
+  "ChatGPTnovelwriting_description": {
+    "message": "1クリックで小説を作成するための人工知能技術に基づく支援ツールです。"
+  },
+  "ChatGPTnovelwriting_author": {
+    "message": "chencong"
+  }
+}
